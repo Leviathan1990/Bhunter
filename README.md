@@ -15,7 +15,7 @@ Fileformats stored in archive:
 .PTH (?)
 .TGA 
 
-The GUI version of the extractor can be downloaded from Moddb size.
+The GUI version of the extractor can be downloaded from Moddb site.
 
 File structure for *.bin:
 =
